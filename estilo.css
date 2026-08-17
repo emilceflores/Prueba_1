@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(241, 241, 246);
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+}
+body {
+    background-color: black;
+}
